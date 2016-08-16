@@ -1,0 +1,9 @@
+{
+  "name": "tees-skyfish",
+  "version": "0.1.0",
+  "license": "Coral",
+  "main": "./dist/js/skyfish.min.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
