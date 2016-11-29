@@ -1,6 +1,6 @@
 {
   "name": "tees-skyfish",
-  "version": "0.2.6-0",
+  "version": "0.2.6-3-2-ga20491d",
   "license": "Coral",
   "main": "./dist/js/skyfish-prod.min.js",
   "ignore": [],
